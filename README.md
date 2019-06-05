@@ -29,13 +29,24 @@ Jag har valt att hålla mig till endast två huvudfärger ljsuare svart och vit.
 ###### RGB - rgb(255,255,255)
 
 ### Typsnitt
-Vilka typsnitt använder du? highstories sans och highstories sans
+Vilka typsnitt använder du? highstories sans och bahnschrift
 ### Mockup
-länk till mockup
-### Tillgänglighet
+https://xd.adobe.com/view/9050b92d-84a4-4ec7-4325-feb2a7a61b00-e661/screen/fac636ad-323e-4c09-aa99-986bb16a3f8d/Web-1920-3### Tillgänglighet
 hur tillgänglig är webbplatsen? Kan vem som helst läsa webbsidan?
 Målet med min hemsida är att göra den så enkel som möjligt för varenda användare speciellt för personer med funktionsnedsättningar.  Jag tänker vara konsekvent med navigation, struktur och utforming. Eftersom min webplats ska bara inehålla en websida så ska jag erbjuda 3 knapppa som kommer ligga överst hela tiden som kommer navigera användaren till dessa tre olika delarna av webplatsen.
 ## Dokumentation
+
+### Vad var uppgiften?
+Uppgiften var att lära sig hur man skapar ett funktionällt webbplats som är tillgänglig för alla och även har en go design. Man skulle skissa hur man föreställde sig att webplatsen kommer se ut och sedan göra en mockup av webbplatsen. Med sin mockup skulle med koda webbplatsen och följa mockupen så bra man kunde. Man skulle även tänka på att göra det på så eneklt sätt det gick.
+### Hur genomförde jag uppgiften?
+Hur gick du till väga för att leverera webbplatsen? Hela vägen från planering till färdigt genomförande.
+Från hela början tänkte jag att webbplatsen skulle vara ensidig och i en sida ha en tidslinje som kan kunde trycka på. Men jag ändrade mig när jag började koda webbplatsen eftersom det var för kronglit både för mig och för använderana som besöker webbplatsen. Eftersom jag hade inte så mycket innehåll så uppdelade jag allting i en navigation bar webbplats som gjorde att sidan var lätt att navigera i. Jag använde mig först mycket av id för att ändra på olika element men eftersom det gjotde hela koden för komplicerat så började jag använda mer classer eftersom hela webbplatsen liknade sig i olika delarna. För hela webbplatsen använde jag mig av grid som var uppdelad i två rader. Sedan lag jag till bilder och la borders runt där jag ville. Jag gjorde det även funkionellt för mobia enheter.
+### Hur blev resultatet?
+Presentera skärmdumpar av testresultat där man ser utseendet på olika webbläsare och ev. plattformar och validering (validator.nu (HTML och CSS)) Mobila enheter:https://gyazo.com/fcd2085dd93f759baad660e41f7d865f
+Webisdan fungerar på varenda webbläsare men det blir lite fel i interenet explorer eftersom griden inte uppdelas där. Annars blev resultaten bra. Allting funkar och man kan med morderna webbläsare använda webbplatsen perfekt.
+	  
+### Utvärdering
+Utvärdera här resultat och beskriv vad du kunde gjort bättre och vad som kan utvecklas.
 ### Kod
 ```html
 <head>
