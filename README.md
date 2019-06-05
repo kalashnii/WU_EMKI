@@ -42,7 +42,7 @@ Målet med min hemsida är att göra den så enkel som möjligt för varenda anv
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="Author" content="">
-	<meta name="Description" content="">
+	<meta name="Description" content="">  ghhghgh
 	<meta name="keywords" content="">
 	<title>Porkforge</title>
 
