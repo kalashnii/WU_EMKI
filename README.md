@@ -43,10 +43,13 @@ Hur gick du till väga för att leverera webbplatsen? Hela vägen från planerin
 Från hela början tänkte jag att webbplatsen skulle vara ensidig och i en sida ha en tidslinje som kan kunde trycka på. Men jag ändrade mig när jag började koda webbplatsen eftersom det var för kronglit både för mig och för använderana som besöker webbplatsen. Eftersom jag hade inte så mycket innehåll så uppdelade jag allting i en navigation bar webbplats som gjorde att sidan var lätt att navigera i. Jag använde mig först mycket av id för att ändra på olika element men eftersom det gjotde hela koden för komplicerat så började jag använda mer classer eftersom hela webbplatsen liknade sig i olika delarna. För hela webbplatsen använde jag mig av grid som var uppdelad i två rader. Sedan lag jag till bilder och la borders runt där jag ville. Jag gjorde det även funkionellt för mobia enheter.
 ### Hur blev resultatet?
 Presentera skärmdumpar av testresultat där man ser utseendet på olika webbläsare och ev. plattformar och validering (validator.nu (HTML och CSS)) Mobila enheter:https://gyazo.com/fcd2085dd93f759baad660e41f7d865f
-Webisdan fungerar på varenda webbläsare men det blir lite fel i interenet explorer eftersom griden inte uppdelas där. Annars blev resultaten bra. Allting funkar och man kan med morderna webbläsare använda webbplatsen perfekt.
+Webisdan fungerar på varenda webbläsare men det blir lite fel i interenet explorer eftersom griden inte uppdelas där. Annars blev resultaten bra. Allting funkar och man kan med morderna webbläsare använda webbplatsen perfekt. 
+Jag har validerat sidan och det finns inga problem i koden förutom att jag inte la till alt i mina bilder eftersom jag kände att det ej behövs.
 	  
 ### Utvärdering
 Utvärdera här resultat och beskriv vad du kunde gjort bättre och vad som kan utvecklas.
+Resultaten jag fick med min webbplats var bra. Jag gjorde den annourlunda från mitt mockup. Jag började även med att skapa websidan med wrappers som då inte behövdes eftersom webbplatsten skillde sig inte så mycket från alla andra sidorna. Det some jag kunde ha gjort bättre är att ha ett bättre planering som är mer realistisk och enkel. Tänka hela tiden hur jag kan utföra det jag vill på det enklast sätt jag vill. Varje steg jag tar så måste jag veta att det ska vara tillänglig till alla enheter inklusive webbläsare. Jag borde inte använda mig av id om jag tänker upprepa några koder eftersom det är mycket enklare att jobba med klasser. Som gör det mycket lättare att redigera i slutet. i css borde jag dela upp min kod och kommentera den, det göra att det blir mycket enklare för mig att redigera saker. 
+
 ### Kod
 ```html
 <head>
